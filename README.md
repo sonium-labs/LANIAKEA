@@ -1,2 +1,2 @@
 # Laniakea
-Laniakea is an audiovisual musical tool written in Processing.
+Laniakea is a live animation program written in Processing and influenced by MIDI from Ableton.
